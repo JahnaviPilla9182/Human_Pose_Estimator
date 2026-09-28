@@ -19,7 +19,7 @@ st.title("🧍 Human Pose Estimation")
 st.write("Detect human body keypoints using a pre-trained MediaPipe model.")
 
 # Model location
-MODEL_PATH = Path(__file__).resolve().parent / "models" / "pose_landmarker_full.task"
+MODEL_PATH = Path(__file__).resolve().parent / "pose_landmarker_full.task"
 
 # Load the pre-trained model
 @st.cache_resource
