@@ -1,6 +1,6 @@
-streamlit==1.64.0
+streamlit==1.53.1
 mediapipe==0.10.21
 protobuf==4.25.8
-opencv-contrib-python==4.11.0.86
+opencv-contrib-python==4.10.0.84
 numpy==1.26.4
 Pillow==10.4.0
